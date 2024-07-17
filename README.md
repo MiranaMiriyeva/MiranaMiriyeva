@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirana</h1>
 <h3 align="center">A Frontend Developer from Azerbaijan</h3>
-<img align="left" width="400px" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952q4ondouikoggjukuka04vaiyhbijjfzk5xkmoy1h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="coding"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miranamiriyeva&label=Profile%20views&color=0e75b6&style=flat" alt="miranamiriyeva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miranamiriyeva" alt="miranamiriyeva" /></a> </p>
+<img align="right" height="180px" width="300px" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952q4ondouikoggjukuka04vaiyhbijjfzk5xkmoy1h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="coding"> 
 
 - 🌱 I’m currently learning **node.js**
 
@@ -13,6 +9,10 @@
 - 💬 Ask me about **Javascript,React.js etc.**
 
 - 📫 How to reach me **miriyeva.mira05@gmail.com**
+
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=miranamiriyeva&label=Profile%20views&color=0e75b6&style=flat" alt="miranamiriyeva" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miranamiriyeva" alt="miranamiriyeva" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
