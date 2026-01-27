@@ -3,7 +3,7 @@
 <img align="right" height="180px" width="300px" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952q4ondouikoggjukuka04vaiyhbijjfzk5xkmoy1h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="coding"> 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://mirana-miriyeva.vercel.app](https://mirana-miriyeva.vercel.app)
+- 👨‍💻 All of my projects are available at [https://miranamiriyeva.site](https://miranamiriyeva.site)
 
 - 💬 Ask me about **Javascript,React.js etc.**
 
