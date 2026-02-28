@@ -67,19 +67,3 @@ LoveInAnswers is an interactive quiz platform designed for couples, offering a f
 ---
 
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MiranaMiriyeva&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiranaMiriyeva&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiranaMiriyeva&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/MiranaMiriyeva/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=MiranaMiriyeva" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiranaMiriyeva&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
