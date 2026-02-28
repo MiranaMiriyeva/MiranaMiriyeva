@@ -1,30 +1,85 @@
-<h1 align="center">Hi 👋, I'm Mirana</h1>
-<h3 align="center">A Frontend Developer from Azerbaijan</h3>
-<img align="right" height="180px" width="300px" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952q4ondouikoggjukuka04vaiyhbijjfzk5xkmoy1h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="coding"> 
-- 🌱 I’m currently learning **node.js**
+# Hello 👋, I'm Mirana
+### Results-driven Full Stack Developer with strong hands-on experience in both frontend and backend development. Skilled in building scalable and high-performance applications using React.js and Node.js (Express). Additionally experienced in developing cross-platform mobile applications with React Native.
 
+## Skills
 
-
-- 💬 Ask me about **Javascript,React.js etc.**
-
-- 📫 How to reach me **miriyeva.mira05@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miranamiriyeva&label=Profile%20views&color=0e75b6&style=flat" alt="miranamiriyeva" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miranamiriyeva" alt="miranamiriyeva" /></a> </p>
-
-
-<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miranə-miriyeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miranə-miriyeva" height="30" width="40" /></a>
-<a href="https://instagram.com/mmira.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmira.05" height="30" width="40" /></a>
-</p> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miranamiriyeva&show_icons=true&locale=en&layout=compact" alt="miranamiriyeva" /></p>
+### Travacco
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miranamiriyeva&show_icons=true&locale=en" alt="miranamiriyeva" /></p>
+<img src="https://www.miranamiriyeva.site/public/travacco.webp" alt="Travacco" width="300"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miranamiriyeva&" alt="miranamiriyeva" /></p>
+Contributed to a high-scale travel management system by improving invoice automation, stabilizing API workflows, and optimizing performance for real-time financial operations.
+
+[View Project](https://travacco.com/en)
+
+---
+
+### Esshopbaku
+
+<img src="https://www.miranamiriyeva.site/public/esshop.png" alt="Esshopbaku" width="300"/>
+
+A SEO-friendly e-commerce website built with TypeScript and Tailwind CSS, offering the latest smartphones, laptops, and accessories with installment payment options.
+
+[View Project](https://esshopbaku.az/)
+
+---
+
+### StendLab
+
+<img src="https://www.miranamiriyeva.site/public/stendlab.png" alt="StendLab" width="300"/>
+
+A multilingual, SEO-optimized web platform built with Next.js, CSS, and i18n to showcase Stend LAB’s advertising products.
+
+[View Project](https://stendlab.az/)
+
+---
+
+### Glamify
+
+<img src="https://www.miranamiriyeva.site/public/glamify.png" alt="Glamify" width="300"/>
+
+A full-featured beauty salon website with blog, booking, and e-commerce built using React, Node.js, and MongoDB.
+
+[View Project](https://glamifybeauty.netlify.app/)
+
+---
+
+### Love In Answers
+
+<img src="https://i.imgur.com/7x4KgCO.png" alt="Love In Answers" width="300"/>
+
+LoveInAnswers is an interactive quiz platform designed for couples, offering a fully customizable and personal experience.
+
+[View Project](https://loveinanswers.site/)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MiranaMiriyeva&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiranaMiriyeva&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiranaMiriyeva&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/MiranaMiriyeva/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=MiranaMiriyeva" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MiranaMiriyeva&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
