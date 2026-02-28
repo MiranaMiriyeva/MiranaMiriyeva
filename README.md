@@ -64,6 +64,3 @@ LoveInAnswers is an interactive quiz platform designed for couples, offering a f
 
 [View Project](https://loveinanswers.site/)
 
----
-
-## GitHub Stats
